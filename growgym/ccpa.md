@@ -1,3 +1,5 @@
+[Click here](https://dev-trofa.github.io/growgym/ccpa) to view Privacy Policy.
+
 # California Consumer Privacy Act Disclosures
 
 Last Updated: 2023.02.21
