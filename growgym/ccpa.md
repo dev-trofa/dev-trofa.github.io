@@ -1,4 +1,4 @@
-[Click here](https://dev-trofa.github.io/growgym/ccpa) to view Privacy Policy.
+[Click here](https://dev-trofa.github.io/growgym/privacypolicy_en) to view Privacy Policy.
 
 # California Consumer Privacy Act Disclosures
 
