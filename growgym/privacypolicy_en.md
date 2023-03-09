@@ -69,7 +69,20 @@ With Your Consent. We may share information for any other purposes disclosed to 
 If you access our Services through third-party devices or platforms, these third parties may be able to collect and process information about you, including information about your activity on the Services, and they may notify your connections on the third-party services, in accordance with their own privacy policies.
 
 
-## IV. YOUR CHOICES
+## IV. COOKIES AND SIMILAR TECHNOLOGIES
+
+When you use the Services or interact with emails from us, we and our third-party business partners may collect and store information about your use of our Services using cookies, pixel tags, local storage, and similar technologies.
+
+Cookies are small files that are automatically generated when you visit a website and are stored on your device.
+Pixel tags are very small images or small pieces of data embedded in images, also known as “web beacons” or “clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your device.
+Local storage is similar to a cookie except that it can store larger amounts of information and can be stored elsewhere on your device.
+
+We use cookies and similar technologies (collectively, “cookies”) for the following purposes
+
+We use advertising cookies to customize the advertising that is shown to you on the Services and on third-party websites and services.
+
+
+## V. YOUR CHOICES
 
 TROFA provides you with a variety of choices to control the use and sharing of your information, including:
 
@@ -100,31 +113,31 @@ Data Rights and Withdrawal of Consent
 The laws in your country may provide you rights to request access to, correct, restrict, port, copy, or delete your information, request that we stop processing your information or delete your account, or withdraw or change the scope of your consent. If you withdraw your consent, we will stop processing your information for such purposes, but it will not affect the processing of information previously covered by your consent.
 Where technologically feasible and required by applicable law, we will port your information pursuant to your reasonable request. A request to withdraw consent, restrict or stop processing your information, or delete your account or information may result in your inability to access the Services or some of its features. To exercise your rights consistent with applicable law, please contact us.
 
-## V. CHILDREN
+## VI. CHILDREN
 
 We do not knowingly collect or sell personal information from children who are under the age of 13 (or the age otherwise defined under applicable law) without parental consent or unless permitted by applicable law.
 If we become aware that personal information has been collected through our Services from a child under the applicable age, we will delete that information and any account associated with that user.
 If you believe we have collected information from a child under the applicable age, please contact us.
 
-## VI. HOW WE SECURE AND HOW LONG WE STORE INFORMATION
+## VII. HOW WE SECURE AND HOW LONG WE STORE INFORMATION
 
 We maintain reasonable and appropriate physical, electronic, organizational, and procedural safeguards to protect your information.
 While we take reasonable precautions against possible loss, misuse, or unauthorized access, no storage system or transmission of data over the Internet can be guaranteed to be secure.
 Data we collect will be retained only for so long as reasonably necessary for the purposes set out above, unless applicable law requires otherwise.
 Please note that information collected by third parties may not have the same security protections as information you submit to us, and we are not responsible for protecting the security of such information.
 
-## VII. INTERNATIONAL DATA TRANSFERS
+## VIII. INTERNATIONAL DATA TRANSFERS
 
 Information we collect may be transferred to countries outside your home country for the purposes set out in this Privacy Policy.
 You understand that these countries, including Korea, Japan, and the United States, may not provide the same level of data privacy protection as the European Union/European Economic Area or your home country, and you hereby expressly consent to the transfer of your information to these countries for processing in accordance with this Privacy Policy.
 These transfers are essential to the provision of our Services and performance of the Terms of Service and End User License Agreement.
 
-## VIII. CHANGES TO THIS PRIVACY POLICY
+## IX. CHANGES TO THIS PRIVACY POLICY
 
 We may make changes to this Privacy Policy, in which case we will notify you before such changes take effect by posting the updated policy through the Services or otherwise in accordance with applicable law.
 Any changes to this Privacy Policy will take effect after a reasonable time period as specified in the notice of such changes.
 
-## IX. CONTACT US
+## X. CONTACT US
 
 The privacy and security of your information is a top priority.
 If you have any questions or concerns about this Privacy Policy or our information practices, please contact the publisher for the particular TROFA Service, which is the data controller responsible for your information:
