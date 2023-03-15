@@ -1,4 +1,6 @@
+<!--
 [<img src="/growgym/language_ko.png" width="50px">](https://dev-trofa.github.io/growgym/privacypolicy_kor) [<img src="/growgym/language_en.png" width="50px">](https://dev-trofa.github.io/growgym/privacypolicy_en)
+-->
 
 # Privacy Policy
 
